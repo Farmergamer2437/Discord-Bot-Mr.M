@@ -18,12 +18,12 @@
 				<a href="https://botghost.com/">
 					botghost.com
 				</a> 	
-			to make this bot.
+			to make this bot. It is not avalible for public relese yet
 		</p>
 	<br>
 	<br>
 		<p>
-			Version 0.1
+			Version 0.1 3/29/2021
 	
 	<table border="1" style="border-collapse: collapse; width: 100%;">
 		<tbody>
@@ -41,5 +41,11 @@
 				</tr>
 			</tbody>
 	</table>
+	<br>
+	<br>
+		<p>
+			Version 0.2 ?/?/?
+		</p>
+	<br>
 	</body>
 </html>
