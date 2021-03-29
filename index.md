@@ -22,6 +22,8 @@
 		</p>
 	<br>
 	<br>
+		<p>
+			Version 0.1
 	
 	<table border="1" style="border-collapse: collapse; width: 100%;">
 		<tbody>
@@ -30,40 +32,12 @@
 					<td style="width: 50%;">What it does</td>
 				</tr>
 				<tr>
-					<td style="width: 50%;"></td>
-					<td style="width: 50%;"></td>
+					<td style="width: 50%;">!meme</td>
+					<td style="width: 50%;">Gets a random meme</td>
 				</tr>
 				<tr>
-					<td style="width: 50%;"></td>
-					<td style="width: 50%;"></td>
-				</tr>
-				<tr>
-					<td style="width: 50%;"></td>
-					<td style="width: 50%;"></td>
-				</tr>
-				<tr>
-					<td style="width: 50%;"></td>
-					<td style="width: 50%;"></td>
-				</tr>
-				<tr>
-					<td style="width: 50%;"></td>
-					<td style="width: 50%;"></td>
-				</tr>
-				<tr>
-					<td style="width: 50%;"></td>
-					<td style="width: 50%;"></td>
-				</tr>
-				<tr>
-					<td style="width: 50%;"></td>
-					<td style="width: 50%;"></td>
-				</tr>
-				<tr>
-					<td style="width: 50%;"></td>
-					<td style="width: 50%;"></td>
-				</tr>
-				<tr>
-					<td style="width: 50%;"></td>
-					<td style="width: 50%;"></td>
+					<td style="width: 50%;">!youtube</td>
+					<td style="width: 50%;">Gets my youtube channel</td>
 				</tr>
 			</tbody>
 	</table>
