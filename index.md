@@ -54,7 +54,7 @@
 	<br>
 	<br>
 		<p> 
-			This update added some new commands
+			This update added some new commands. The !youtube command is broken for the time being.
 		</p>
 			<table border="1" style="border-collapse: collapse; width: 100%;">
 				<tbody>
