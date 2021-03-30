@@ -23,8 +23,13 @@
 	<br>
 	<br>
 		<p>
-			Version 0.1 3/29/2021
-	
+			Version 0.1 3/29/2021	
+		</p>
+	<br>
+	<br>
+		<p>
+			This update made the bot and added some new fetures. Very basic.
+		</p>
 	<table border="1" style="border-collapse: collapse; width: 100%;">
 		<tbody>
 				<tr>
@@ -44,8 +49,40 @@
 	<br>
 	<br>
 		<p>
-			Version 0.2 ?/?/?
+			Version 0.2 3/30/2021
 		</p>
 	<br>
+	<br>
+		<p> 
+			This update added some new commands
+		</p>
+			<table border="1" style="border-collapse: collapse; width: 100%;">
+				<tbody>
+					<tr>
+						<td style="width: 50%;">Command</td>
+						<td style="width: 50%;">What it does</td>
+					</tr>
+					<tr>
+						<td style="width: 50%;">!spotify</td>
+						<td style="width: 50%;">Gets spotify link</td>
+					</tr>
+					<tr>
+						<td style="width: 50%;">!info</td>
+						<td style="width: 50%;">Gets info about the bot</td>
+					</tr>
+					<tr>
+						<td style="width: 50%;">!page</td>
+						<td style="width: 50%;">Gets this page</td>
+					</tr>
+					<tr>
+						<td style="width: 50%;">!reddit</td>
+						<td style="width: 50%;">Gets reddit link</td>
+					</tr>
+				</tbody>
+		</table>
+	<br>
+		<p>
+			Version 0.2.1 ?/?/?
+		</p>
 	</body>
 </html>
